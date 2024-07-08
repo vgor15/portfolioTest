@@ -141,7 +141,7 @@ const items = [
         <div className="container">
           <div className="wrapper">
             <div className="imageContainer" ref={ref}>
-              <img src={item.img} alt="" />
+              <img src={item.img} alt={item.title} />
             </div>
             <motion.div className="textContainer" style={{y}}>
               <h2>{item.title}</h2>
