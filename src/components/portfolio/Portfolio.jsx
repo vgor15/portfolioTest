@@ -100,28 +100,28 @@ const items = [
     {
       id: 1,
       title: "cafeerio-online-foods",
-      img: "./public/cafeerio-online-foods.png",
+      img: "./dist/cafeerio-online-foods.png",
       desc: "Savor the flavor of your favorite cuisine from the comfort of your own home. Order online and get delicious food delivered right to your door!",
       demoUrl: "https://cafeerio-online-foods.netlify.app/index.html"
     },
     {
       id: 2,
       title: "MUSEUM-OF-CANDY",
-      img: "./public/Screenshot 2024-07-04 135215.png",
+      img: "./dist/Screenshot 2024-07-04 135215.png",
       desc: "Explore the Museum of Candy, an interactive digital experience showcasing the vibrant world of confectionery. Discover the history, take virtual tours, and indulge in the sweet allure of candy through engaging visuals and content. A delightful treat for all ages!",
       demoUrl: "https://vgor15.github.io/MUSEUM-OF-CANDY-/"
     },
     {
       id: 3,
       title: "QuizMaster",
-      img: "./public/QuizMaster.png",
+      img: "./dist/QuizMaster.png",
       desc: "Dive into QuizMaster, a dynamic platform designed to test your knowledge with engaging quizzes across various topics. Whether you're looking to challenge yourself or learn something new, QuizMaster offers an interactive and fun way to expand your horizons. Perfect for all trivia enthusiasts!",
       demoUrl: "https://vgor15.github.io/QuizMaster/"
     },
     {
       id: 4,
       title: "NFC App",
-      img: "./public/nfc.jpg",
+      img: "./dist/nfc.jpg",
       desc: "Tap into the future. Seamlessly connect, exchange, and experience with our innovative NFC app.",
       demoUrl: "https://www.youtube.com"
     },
